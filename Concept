@@ -1,0 +1,4 @@
+import pandas as pd
+import seaborn as sns
+url = "https://illinoisstateuniversity-my.sharepoint.com/:x:/g/personal/eckittr_ilstu_edu/Ef6RWYixHvdNsCfxsPyzsc4Bvx7x0nuU4aqmyWsktpxsbQ?e=HhrQnU"
+Concept = pd.read_csv(url)
